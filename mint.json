@@ -21,10 +21,6 @@
       "url": "mailto:hi@mintlify.com"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "API Reference",
@@ -36,11 +32,6 @@
       "name": "Documentation",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
     },
     {
       "name": "Blog",
@@ -66,6 +57,12 @@
         "essentials/settings",
         "essentials/navigation",
         "essentials/reusable-snippets"
+      ]
+    },
+    {
+      "group": "Production",
+      "pages": [
+        "production/new-css",
       ]
     },
     {
