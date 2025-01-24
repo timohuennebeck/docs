@@ -21,12 +21,6 @@
             "url": "mailto:hi@mintlify.com"
         }
     ],
-    "tabs": [
-        {
-            "name": "API Reference",
-            "url": "api-reference"
-        }
-    ],
     "anchors": [
         {
             "name": "Documentation",
