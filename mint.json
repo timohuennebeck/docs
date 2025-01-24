@@ -7,18 +7,24 @@
     },
     "favicon": "/favicon.svg",
     "colors": {
-        "primary": "#0D9373",
-        "light": "#07C983",
-        "dark": "#0D9373",
+        "primary": "#2196F3",
+        "light": "#64B5F6",
+        "dark": "#1565C0",
         "anchors": {
-            "from": "#0D9373",
-            "to": "#07C983"
+            "from": "#2196F3",
+            "to": "#64B5F6"
         }
     },
     "topbarLinks": [
         {
             "name": "Support",
             "url": "mailto:hi@mintlify.com"
+        }
+    ],
+    "tabs": [
+        {
+            "name": "API Reference",
+            "url": "api-reference"
         }
     ],
     "anchors": [
